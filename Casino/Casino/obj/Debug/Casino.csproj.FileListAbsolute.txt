@@ -1,0 +1,8 @@
+D:\IT\HeadFirst\C#\Casino\Casino\bin\Debug\Casino.exe.config
+D:\IT\HeadFirst\C#\Casino\Casino\bin\Debug\Casino.exe
+D:\IT\HeadFirst\C#\Casino\Casino\bin\Debug\Casino.pdb
+D:\IT\HeadFirst\C#\Casino\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+D:\IT\HeadFirst\C#\Casino\Casino\obj\Debug\Casino.csproj.SuggestedBindingRedirects.cache
+D:\IT\HeadFirst\C#\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+D:\IT\HeadFirst\C#\Casino\Casino\obj\Debug\Casino.exe
+D:\IT\HeadFirst\C#\Casino\Casino\obj\Debug\Casino.pdb

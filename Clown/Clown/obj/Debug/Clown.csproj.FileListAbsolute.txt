@@ -1,0 +1,8 @@
+D:\IT\HeadFirst\C#\Clown\Clown\bin\Debug\Clown.exe.config
+D:\IT\HeadFirst\C#\Clown\Clown\bin\Debug\Clown.exe
+D:\IT\HeadFirst\C#\Clown\Clown\bin\Debug\Clown.pdb
+D:\IT\HeadFirst\C#\Clown\Clown\obj\Debug\Clown.csproj.AssemblyReference.cache
+D:\IT\HeadFirst\C#\Clown\Clown\obj\Debug\Clown.csproj.SuggestedBindingRedirects.cache
+D:\IT\HeadFirst\C#\Clown\Clown\obj\Debug\Clown.csproj.CoreCompileInputs.cache
+D:\IT\HeadFirst\C#\Clown\Clown\obj\Debug\Clown.exe
+D:\IT\HeadFirst\C#\Clown\Clown\obj\Debug\Clown.pdb

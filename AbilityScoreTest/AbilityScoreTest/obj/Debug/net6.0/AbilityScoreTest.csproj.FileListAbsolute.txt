@@ -1,0 +1,15 @@
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\bin\Debug\net6.0\AbilityScoreTest.exe
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\bin\Debug\net6.0\AbilityScoreTest.deps.json
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\bin\Debug\net6.0\AbilityScoreTest.runtimeconfig.json
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\bin\Debug\net6.0\AbilityScoreTest.dll
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\bin\Debug\net6.0\AbilityScoreTest.pdb
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\obj\Debug\net6.0\AbilityScoreTest.csproj.AssemblyReference.cache
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\obj\Debug\net6.0\AbilityScoreTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\obj\Debug\net6.0\AbilityScoreTest.AssemblyInfoInputs.cache
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\obj\Debug\net6.0\AbilityScoreTest.AssemblyInfo.cs
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\obj\Debug\net6.0\AbilityScoreTest.csproj.CoreCompileInputs.cache
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\obj\Debug\net6.0\AbilityScoreTest.dll
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\obj\Debug\net6.0\refint\AbilityScoreTest.dll
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\obj\Debug\net6.0\AbilityScoreTest.pdb
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\obj\Debug\net6.0\AbilityScoreTest.genruntimeconfig.cache
+D:\IT\HeadFirst\C#\AbilityScoreTest\AbilityScoreTest\obj\Debug\net6.0\ref\AbilityScoreTest.dll
