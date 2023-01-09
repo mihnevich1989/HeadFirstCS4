@@ -6,3 +6,11 @@ D:\IT\HeadFirst\C#\PaintballGun\PaintballGun\obj\Debug\PaintballGun.csproj.Sugge
 D:\IT\HeadFirst\C#\PaintballGun\PaintballGun\obj\Debug\PaintballGun.csproj.CoreCompileInputs.cache
 D:\IT\HeadFirst\C#\PaintballGun\PaintballGun\obj\Debug\PaintballGun.exe
 D:\IT\HeadFirst\C#\PaintballGun\PaintballGun\obj\Debug\PaintballGun.pdb
+D:\IT\HeadFirst\HeadFirstCS4\PaintballGun\PaintballGun\bin\Debug\PaintballGun.exe.config
+D:\IT\HeadFirst\HeadFirstCS4\PaintballGun\PaintballGun\bin\Debug\PaintballGun.exe
+D:\IT\HeadFirst\HeadFirstCS4\PaintballGun\PaintballGun\bin\Debug\PaintballGun.pdb
+D:\IT\HeadFirst\HeadFirstCS4\PaintballGun\PaintballGun\obj\Debug\PaintballGun.csproj.AssemblyReference.cache
+D:\IT\HeadFirst\HeadFirstCS4\PaintballGun\PaintballGun\obj\Debug\PaintballGun.csproj.SuggestedBindingRedirects.cache
+D:\IT\HeadFirst\HeadFirstCS4\PaintballGun\PaintballGun\obj\Debug\PaintballGun.csproj.CoreCompileInputs.cache
+D:\IT\HeadFirst\HeadFirstCS4\PaintballGun\PaintballGun\obj\Debug\PaintballGun.exe
+D:\IT\HeadFirst\HeadFirstCS4\PaintballGun\PaintballGun\obj\Debug\PaintballGun.pdb

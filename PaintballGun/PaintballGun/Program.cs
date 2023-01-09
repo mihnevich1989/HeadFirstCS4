@@ -21,7 +21,7 @@ namespace PaintballGun
                 char key = Console.ReadKey().KeyChar;
                 if (key == ' ') Console.WriteLine($"Shooting returned {gun.Shoot()}");
                 else if (key == 'r') gun.Reload();
-                else if (key == '+') gun.Balls += PaintballGun.MAGAZINE_SIZE;
+                else if (key == '+') gun.Balls += gun.MagazineSize;
                 else if (key == 'q') return;
             }
 
