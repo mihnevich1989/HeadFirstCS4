@@ -6,3 +6,11 @@ D:\IT\HeadFirst\C#\RollMagicSwordGame\RollMagicSwordGame\obj\Debug\RollMagicSwor
 D:\IT\HeadFirst\C#\RollMagicSwordGame\RollMagicSwordGame\obj\Debug\RollMagicSwordGame.csproj.CoreCompileInputs.cache
 D:\IT\HeadFirst\C#\RollMagicSwordGame\RollMagicSwordGame\obj\Debug\RollMagicSwordGame.exe
 D:\IT\HeadFirst\C#\RollMagicSwordGame\RollMagicSwordGame\obj\Debug\RollMagicSwordGame.pdb
+D:\IT\HeadFirst\HeadFirstCS4\RollMagicSwordGame\RollMagicSwordGame\bin\Debug\RollMagicSwordGame.exe.config
+D:\IT\HeadFirst\HeadFirstCS4\RollMagicSwordGame\RollMagicSwordGame\bin\Debug\RollMagicSwordGame.exe
+D:\IT\HeadFirst\HeadFirstCS4\RollMagicSwordGame\RollMagicSwordGame\bin\Debug\RollMagicSwordGame.pdb
+D:\IT\HeadFirst\HeadFirstCS4\RollMagicSwordGame\RollMagicSwordGame\obj\Debug\RollMagicSwordGame.csproj.AssemblyReference.cache
+D:\IT\HeadFirst\HeadFirstCS4\RollMagicSwordGame\RollMagicSwordGame\obj\Debug\RollMagicSwordGame.csproj.SuggestedBindingRedirects.cache
+D:\IT\HeadFirst\HeadFirstCS4\RollMagicSwordGame\RollMagicSwordGame\obj\Debug\RollMagicSwordGame.csproj.CoreCompileInputs.cache
+D:\IT\HeadFirst\HeadFirstCS4\RollMagicSwordGame\RollMagicSwordGame\obj\Debug\RollMagicSwordGame.exe
+D:\IT\HeadFirst\HeadFirstCS4\RollMagicSwordGame\RollMagicSwordGame\obj\Debug\RollMagicSwordGame.pdb

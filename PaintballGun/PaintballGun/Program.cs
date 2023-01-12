@@ -10,8 +10,31 @@ namespace PaintballGun
     {
         static void Main(string[] args)
         {
+            int ReadInt(int lastUsedValue, string prompt)
+            {
+                Console.Write($"{prompt} [{lastUsedValue}]: ");
+                string line = Console.ReadLine();
 
-            PaintballGun gun = new PaintballGun();
+                if (int.TryParse(line, out int value))
+                {
+                    Console.WriteLine($" using value {value}");
+                    return value;
+                }
+                else
+                {
+                    Console.WriteLine($" using default value {lastUsedValue}");
+                    return lastUsedValue;
+                }
+
+            }
+
+            int numberOfBalls = ReadInt(20, "Number of balls");
+            int magazineSize = ReadInt(16, "Magazine size");
+
+            Console.Write($"Loaded [false]: ");
+            bool.TryParse(Console.ReadLine(), out bool isLoaded);
+
+            PaintballGun gun = new PaintballGun(numberOfBalls, magazineSize, isLoaded);
 
             while (true)
             {
@@ -24,7 +47,6 @@ namespace PaintballGun
                 else if (key == '+') gun.Balls += gun.MagazineSize;
                 else if (key == 'q') return;
             }
-
         }
     }
 }

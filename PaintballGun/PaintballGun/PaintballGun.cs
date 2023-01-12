@@ -39,5 +39,14 @@ namespace PaintballGun
             balls--;
             return true;
         }
+
+        public PaintballGun(int balls, int magazineSize, bool loaded) 
+        {
+            this.balls = balls;
+            MagazineSize = magazineSize;
+            if (!loaded) Reload();
+        }
+
+        
     }
 }

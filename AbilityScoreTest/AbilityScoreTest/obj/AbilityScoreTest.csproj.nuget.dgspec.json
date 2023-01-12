@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT\\HeadFirst\\C#\\AbilityScoreTest\\AbilityScoreTest\\AbilityScoreTest.csproj": {}
+    "D:\\IT\\HeadFirst\\HeadFirstCS4\\AbilityScoreTest\\AbilityScoreTest\\AbilityScoreTest.csproj": {}
   },
   "projects": {
-    "D:\\IT\\HeadFirst\\C#\\AbilityScoreTest\\AbilityScoreTest\\AbilityScoreTest.csproj": {
+    "D:\\IT\\HeadFirst\\HeadFirstCS4\\AbilityScoreTest\\AbilityScoreTest\\AbilityScoreTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT\\HeadFirst\\C#\\AbilityScoreTest\\AbilityScoreTest\\AbilityScoreTest.csproj",
+        "projectUniqueName": "D:\\IT\\HeadFirst\\HeadFirstCS4\\AbilityScoreTest\\AbilityScoreTest\\AbilityScoreTest.csproj",
         "projectName": "AbilityScoreTest",
-        "projectPath": "D:\\IT\\HeadFirst\\C#\\AbilityScoreTest\\AbilityScoreTest\\AbilityScoreTest.csproj",
+        "projectPath": "D:\\IT\\HeadFirst\\HeadFirstCS4\\AbilityScoreTest\\AbilityScoreTest\\AbilityScoreTest.csproj",
         "packagesPath": "C:\\Users\\mikhn\\.nuget\\packages\\",
-        "outputPath": "D:\\IT\\HeadFirst\\C#\\AbilityScoreTest\\AbilityScoreTest\\obj\\",
+        "outputPath": "D:\\IT\\HeadFirst\\HeadFirstCS4\\AbilityScoreTest\\AbilityScoreTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
