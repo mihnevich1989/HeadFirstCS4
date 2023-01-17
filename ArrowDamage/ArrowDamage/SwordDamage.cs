@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
 
-namespace RollMagicSwordGame
+namespace ArrowDamage
 {
-    class SwordDamage
+    internal class SwordDamage
     {
         private const int BASE_DAMAGE = 3;
         private const int FLAME_DAMAGE = 2;
