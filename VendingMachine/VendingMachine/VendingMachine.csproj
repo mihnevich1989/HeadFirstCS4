@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5CAEB2AC-65AB-4AFA-AB09-1892A853FA1F}</ProjectGuid>
+    <ProjectGuid>{7DF6A434-C592-40B3-A8F7-04F4CBA396A6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ArrowDamage</RootNamespace>
-    <AssemblyName>ArrowDamage</AssemblyName>
+    <RootNamespace>VendingMachine</RootNamespace>
+    <AssemblyName>VendingMachine</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnimalFeedVendingMachine.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ArrowDamage.cs" />
-    <Compile Include="SwordDamage.cs" />
-    <Compile Include="WeaponDamage.cs" />
+    <Compile Include="VendingMachine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

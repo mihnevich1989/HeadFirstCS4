@@ -6,3 +6,11 @@ D:\IT\HeadFirst\C#\RandomCardsPicker\RandomCardsPicker\obj\Debug\RandomCardsPick
 D:\IT\HeadFirst\C#\RandomCardsPicker\RandomCardsPicker\obj\Debug\RandomCardsPicker.csproj.CoreCompileInputs.cache
 D:\IT\HeadFirst\C#\RandomCardsPicker\RandomCardsPicker\obj\Debug\RandomCardsPicker.exe
 D:\IT\HeadFirst\C#\RandomCardsPicker\RandomCardsPicker\obj\Debug\RandomCardsPicker.pdb
+D:\IT\HeadFirst\HeadFirstCS4\RandomCardsPicker\RandomCardsPicker\bin\Debug\RandomCardsPicker.exe.config
+D:\IT\HeadFirst\HeadFirstCS4\RandomCardsPicker\RandomCardsPicker\bin\Debug\RandomCardsPicker.exe
+D:\IT\HeadFirst\HeadFirstCS4\RandomCardsPicker\RandomCardsPicker\bin\Debug\RandomCardsPicker.pdb
+D:\IT\HeadFirst\HeadFirstCS4\RandomCardsPicker\RandomCardsPicker\obj\Debug\RandomCardsPicker.csproj.AssemblyReference.cache
+D:\IT\HeadFirst\HeadFirstCS4\RandomCardsPicker\RandomCardsPicker\obj\Debug\RandomCardsPicker.csproj.SuggestedBindingRedirects.cache
+D:\IT\HeadFirst\HeadFirstCS4\RandomCardsPicker\RandomCardsPicker\obj\Debug\RandomCardsPicker.csproj.CoreCompileInputs.cache
+D:\IT\HeadFirst\HeadFirstCS4\RandomCardsPicker\RandomCardsPicker\obj\Debug\RandomCardsPicker.exe
+D:\IT\HeadFirst\HeadFirstCS4\RandomCardsPicker\RandomCardsPicker\obj\Debug\RandomCardsPicker.pdb
