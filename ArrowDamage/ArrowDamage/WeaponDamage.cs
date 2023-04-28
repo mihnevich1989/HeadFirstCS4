@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArrowDamage
 {
-    internal class WeaponDamage
+    abstract class WeaponDamage
     {
         /// <summary>
         /// содежит вычисленный damage
@@ -61,9 +61,7 @@ namespace ArrowDamage
         /// <summary>
         /// вычисляет повреждения в зависимости от текущий свойств
         /// </summary>
-        protected virtual void CalculateDamage(){
-            Console.WriteLine();
-        }
+        protected abstract void CalculateDamage();
 
         /// <summary>
         /// конструктор вычисляет повреждения для начального броска и значений magic flaming по умолчанию
