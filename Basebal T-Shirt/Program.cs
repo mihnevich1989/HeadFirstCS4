@@ -19,11 +19,26 @@ namespace Basebal
                 {44, new RetiredPlayer("Reggie Jackson", 1993)},
             };
 
-            foreach (int jerseyNumber in retiredYankees.Keys)
-            {
-                RetiredPlayer player = retiredYankees[jerseyNumber];
-                Console.WriteLine($"{player.Name} #{jerseyNumber} retired in {player.YearRetired}");
-            }
+            //foreach (int jerseyNumber in retiredYankees.Keys)
+            //{
+            //    RetiredPlayer player = retiredYankees[jerseyNumber];
+            //    Console.WriteLine($"{player.Name} #{jerseyNumber} retired in {player.YearRetired}");
+            //}
+
+            Stack<int> stackInt = new Stack<int>();
+            stackInt.Push(11);
+            stackInt.Push(22);
+            stackInt.Push(33);
+            stackInt.Push(44);
+
+            Queue<int> myQueue = new Queue<int>(stackInt);
+            Console.WriteLine(myQueue.Count);
+            List<int> myList = new List<int>(myQueue);
+            Console.WriteLine(myList.Count);
+            Stack<int> myStack = new Stack<int>(myList);
+            Console.WriteLine(myStack.Count);
+
+
 
         }
     }
