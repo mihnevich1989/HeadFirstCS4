@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace Ducks
 {
-    internal class Duck : IComparable<Duck>
+    internal class Duck : Bird
     {
         public int Size { get; set; }
         public KindOfDuck Kind {  get; set; }
+
+        public override string ToString()
+        {
+            return $"A {Size} inch {Kind}";
+        }
 
         public int CompareTo(Duck? duckToCompare)
         {
@@ -27,16 +32,6 @@ namespace Ducks
             }
         }
 
-        public override string ToString()
-        {
-            return $"A {Size} inch {Kind}";
-        }
-    }
-
-    enum KindOfDuck
-    {
-        Mallard,
-        Muscovy,
-        Loon,
+        
     }
 }

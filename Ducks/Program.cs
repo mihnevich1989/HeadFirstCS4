@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace Ducks
 {
@@ -16,14 +17,18 @@ namespace Ducks
         {
 
         List<Duck> ducks = new List<Duck>()
-            {
-                new Duck() { Kind = KindOfDuck.Mallard, Size = 17},
-                new Duck() { Kind = KindOfDuck.Muscovy, Size = 18},
-                new Duck() { Kind = KindOfDuck.Loon, Size = 14},
-                new Duck() { Kind = KindOfDuck.Muscovy, Size = 11},
-                new Duck() { Kind = KindOfDuck.Mallard, Size = 14},
-                new Duck() { Kind = KindOfDuck.Loon, Size = 13}
-            };
+        {
+            new Duck() { Kind = KindOfDuck.Mallard, Size = 17},
+            new Duck() { Kind = KindOfDuck.Muscovy, Size = 18},
+            new Duck() { Kind = KindOfDuck.Loon, Size = 14},
+            new Duck() { Kind = KindOfDuck.Muscovy, Size = 11},
+            new Duck() { Kind = KindOfDuck.Mallard, Size = 14},
+            new Duck() { Kind = KindOfDuck.Loon, Size = 13}
+        };
+
+            IEnumerable<Bird> upcastDucks = ducks;
+            Bird.FlyAway(upcastDucks.ToList(), "Minnesota");
+
 
                     
             //IComparer<Duck> sizeComparer = new DuckComparerBySize();
@@ -33,7 +38,7 @@ namespace Ducks
             //ducks.Sort(kindComparer);
             //PrintDucks(ducks);
 
-            DuckComparer comparer = new DuckComparer();
+            /*DuckComparer comparer = new DuckComparer();
             Console.WriteLine("\nSorting by Kind then Size\n");
             comparer.SortBy = SortCriteria.KindThenSize;
             ducks.Sort(comparer);
@@ -46,7 +51,7 @@ namespace Ducks
 
             List<Breeds> breeds = new List<Breeds>();
             breeds.Add(Breeds.Pub);
-            Console.WriteLine(breeds.ToString());
+            Console.WriteLine(breeds.ToString());*/
         }
     }
 }
