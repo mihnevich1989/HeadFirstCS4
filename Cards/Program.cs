@@ -2,25 +2,39 @@
 {
     internal class Program
     {
+        private static readonly Random random = new Random();
+
+        static Card RandomCard()
+        {
+            return new Card((Values)random.Next(1, 14), (Suits)random.Next(4));
+        }
+
+        static void PrintCard(List<Card> cards)
+        {
+            foreach (Card card in cards)
+                Console.WriteLine(card); 
+        }
+
         static void Main(string[] args)
         {
-            Random random = new Random();
-            int numberBetween0and3 = random.Next(4);
-            int numberBetween1and13 = random.Next(1, 14);
-            int anyRandomInteger = random.Next();
-
-            //Card myCard = new Card((Values)numberBetween1and13, (Suits)numberBetween0and3);
-            //Console.WriteLine(myCard.Name);
-
             List<Card> cards = new List<Card>();
-            cards.Add(new Card(Values.Ace, Suits.Hearts));
-            cards.Add(new Card(Values.Jack, Suits.Spades));
-            cards.Add(new Card(Values.Five, Suits.Clubs));
-
-            foreach (Card card in cards)
+            Console.WriteLine($"Enter number cards: ");
+            if(int.TryParse(Console.ReadLine(), out int numberOfCard))
             {
-                Console.WriteLine(card.Name);
+                for(int i = 0; i < numberOfCard; i++)
+                {
+                    cards.Add(RandomCard());
+                }
             }
+
+            PrintCard(cards);
+
+            cards.Sort(new CardComparerByValue());
+            Console.WriteLine("\n... sorting the cards ...\n");
+            PrintCard(cards);
+
+
+
         }
     }
 }
